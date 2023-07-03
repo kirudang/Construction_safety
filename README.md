@@ -16,6 +16,9 @@ To train the model, the author has embraced an Iterative Training Process using 
 ![image](https://github.com/kirudang/Construction_safety/assets/91911269/bcaff9ca-e86e-4712-999e-ad50208e552a)
 
 ## How to use the model
+
 **Data**: https://universe.roboflow.com/northeastern-4sfxe/construction-safety-open-hole-excavation-detection
+
 **Final presentation**: https://1drv.ms/p/s!AuKWdN1iTCRw-mqhSeLCqP__XC3v?e=7scgXa
+
 **Model**: all 4 models are nested under **Finished Models** folder.
